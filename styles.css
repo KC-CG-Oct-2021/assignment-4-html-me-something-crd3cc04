@@ -1,1 +1,21 @@
 /* Write your CSS here! */
+ body {
+   margin: 8px;
+   display: block;
+   padding: 25px 50px 80px 100px;
+   background-color: azure;
+}
+#mainHeading {
+    text-align: center;
+    color: red;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+#testP.funParagraph {
+    color: green;
+  }
